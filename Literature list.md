@@ -12,11 +12,9 @@
 ## Concepts to understand 
 
 #### Peripheral nerves
-#### Nociceptors
+#### Itch
 #### Excitability
 #### Action potential 
 #### Voltage-gated ion channels
 #### Subtypes of sodium channels
 #### Perception threshold tracking experiments 
-#### Oxaliplatin
-#### Bursting activity
